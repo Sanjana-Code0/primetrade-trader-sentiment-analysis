@@ -136,4 +136,4 @@ See `requirements.txt`. Core dependencies:
 
 ## Contact
 
-*Your Name* | *your.email@example.com*
+*Sanjana Palkar* | *sanjana.palkar01@gmail.com*
